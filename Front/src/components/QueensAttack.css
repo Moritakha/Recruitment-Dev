@@ -1,0 +1,21 @@
+.queens-container {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+  }
+  
+  .board-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .square {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+  }
