@@ -13,13 +13,14 @@ This repository contains Frontend and Backend from Recruitment Dev 2024 Practice
 
 ### Clone the Repository
 
-git clone https://github.com/Moritakha/Recruitment-Dev.git
-cd Front and cd Back in differents code editors
+ - git clone https://github.com/Moritakha/Recruitment-Dev.git
+ - cd Front and cd Back in differents code editors
 
 # Navigate to the backend directory and run the Laravel server
-cd Back
-php artisan serve
+ - cd Back 
+ - php artisan serve
 
 # Navigate to the frontend directory and start the React application
-cd Front
-npm start
+ - cd Front
+ - npm start
+
