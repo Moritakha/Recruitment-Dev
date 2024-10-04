@@ -22,41 +22,30 @@ Make sure you have the following installed on your machine:
 - [PHP](https://www.php.net/) (version 8.0 or higher)
 - [Laravel](https://laravel.com/) (version 8.0 or higher)
 
-## Installation and Setup
+# Installation and Setup
 
-### Clone the Repository
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/Moritakha/Recruitment-Dev.git
-2. Navigate to the project directory:
-
-   ```bash
-   cd Recruitment-Dev
-
-# Clone the repository to your local machine:
+## Clone the repository to your local machine:
 git clone https://github.com/Moritakha/Recruitment-Dev.git
 
-# Navigate to the project directory:
+## Navigate to the project directory:
 cd Recruitment-Dev
 
-# Backend Setup
-## Navigate to the backend directory:
+## Backend Setup
+### Navigate to the backend directory:
 cd Back
 
-## Install the required PHP dependencies using Composer:
+### Install the required PHP dependencies using Composer:
 composer install
 
-## Start the Laravel server:
+### Start the Laravel server:
 php artisan serve
 
-# Frontend Setup
-## Open a new terminal window and navigate to the frontend directory:
-cd ../Front
+## Frontend Setup
+### Open a new code editor window and navigate to the frontend directory:
+cd Front
 
-## Install the required JavaScript dependencies using npm:
+### Install the required JavaScript dependencies using npm:
 npm install
 
-## Start the React application:
+### Start the React application:
 npm start
