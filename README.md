@@ -25,27 +25,27 @@ Make sure you have the following installed on your machine:
 # Installation and Setup
 
 ## Clone the repository to your local machine:
-git clone https://github.com/Moritakha/Recruitment-Dev.git
+- git clone https://github.com/Moritakha/Recruitment-Dev.git
 
 ## Navigate to the project directory:
-cd Recruitment-Dev
+- cd Recruitment-Dev
 
 ## Backend Setup
 ### Navigate to the backend directory:
-cd Back
+- cd Back
 
 ### Install the required PHP dependencies using Composer:
-composer install
+- composer install
 
 ### Start the Laravel server:
-php artisan serve
+- php artisan serve
 
 ## Frontend Setup
 ### Open a new code editor window and navigate to the frontend directory:
-cd Front
+- cd Front
 
 ### Install the required JavaScript dependencies using npm:
-npm install
+- npm install
 
 ### Start the React application:
-npm start
+- npm start
